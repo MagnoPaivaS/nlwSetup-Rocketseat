@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://magnopaivas.github.io/nlwSetup-Rocketseat){:target="_blank"}
+- [Visite o projeto online](https://magnopaivas.github.io/nlwSetup-Rocketseat){:target="_blank" rel="noopener"}
 
 ## 📋 Layout
 
